@@ -3,7 +3,9 @@ Military symbol generator based on milsymbol.js
 
 ![Milsymbol Generator](https://raw.githubusercontent.com/spatialillusions/milsymbol-generator/master/milsymbol-generator.png?raw=true)
 
-You can find an online version at https://spatialillusions.com/unitgenerator/
+You can find an automatically deployed online version (To be updated) at https://military-tactical-graphics.github.io/milsymbol-generator/
+
+Original version of Milsymbol generator live deployment can be found here: https://spatialillusions.com/unitgenerator/
 
 This is still in development and is still missing quite a lot of functionality compared to the current symbol generator. Please provide feedback and ideas as issues.
 
