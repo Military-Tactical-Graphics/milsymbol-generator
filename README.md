@@ -1,5 +1,5 @@
 # Milsymbol-generator
-Military symbol generator based on milsymbol.js
+Military symbol generator based on milsymbol.js, used as a playground to test new implemented features by our workgroup. This repository is not intended to be merged again with the original milsymbol generator.
 
 ![Milsymbol Generator](https://raw.githubusercontent.com/spatialillusions/milsymbol-generator/master/milsymbol-generator.png?raw=true)
 
