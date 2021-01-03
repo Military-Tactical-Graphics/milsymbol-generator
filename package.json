@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npm run bundle",
     "bundle": "rollup -c",
-	"start": "npm run bundle"
+	"start": "node index.js"
   },
   "dependencies": {
     "milsymbol": "^2.0.0-rc1"
