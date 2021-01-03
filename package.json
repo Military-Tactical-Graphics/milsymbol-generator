@@ -5,7 +5,7 @@
   "main": "unitgenerator/milsymbol-unit-generator.js",
   "scripts": {
     "build": "npm run bundle",
-    "bundle": "rollup -c"
+    "bundle": "rollup -c",
 	"start": "npm run bundle"
   },
   "dependencies": {
