@@ -6,7 +6,8 @@
   "scripts": {
     "build": "npm run bundle",
     "bundle": "rollup -c",
-	"start": "node src/index.js"
+	"start": "node src/index.js",
+	"heroku-postbuild": "rollup -c"
   },
   "dependencies": {
     "milsymbol": "^2.0.0-rc1"
