@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Military symbol generator based on milsymbol.js",
   "main": "unitgenerator/milsymbol-unit-generator.js",
-  "type": "module",
   "scripts": {
     "build": "npm run bundle",
     "bundle": "rollup -c",
