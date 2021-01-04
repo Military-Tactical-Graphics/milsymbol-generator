@@ -7,7 +7,7 @@
   "scripts": {
     "build": "npm run bundle",
     "bundle": "rollup -c",
-    "start": "node app.js",
+    "start": "node unitgenerator/milsymbol-unit-generator.js",
     "heroku-postbuild": "rollup -c"
   },
   "dependencies": {
