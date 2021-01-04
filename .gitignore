@@ -3,3 +3,5 @@ unitgenerator.zip
 unitgenerator/milsymbol-unit-generator.css
 
 unitgenerator/milsymbol-unit-generator.js
+
+node_modules/*
