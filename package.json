@@ -7,7 +7,7 @@
   "scripts": {
     "build": "npm run bundle",
     "bundle": "rollup -c",
-    "start": "nodemon app.js",
+    "start": "node app.js",
     "heroku-postbuild": "rollup -c"
   },
   "dependencies": {
