@@ -4,7 +4,7 @@ Military symbol generator based on milsymbol.js, used as a playground to test ne
 ![Milsymbol Generator](https://raw.githubusercontent.com/spatialillusions/milsymbol-generator/master/milsymbol-generator.png?raw=true)
 
 ## Deployment
-The instructions for deployment of the original version
+The instructions for deployment of the original version are not very clear, so we took the liberty to specify it more precisely in this extension, with remarks about what works for the original as well.
 
 ### Deploying locally
 After downloading this or the original repository, all that is needed is to run `npm install` in the root folder and then run `npm run build`. No errors should come up, only warnings. After this, all it takes is to open `unitgenerator/index.html` in (almost) any browser.
