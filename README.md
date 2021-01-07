@@ -14,7 +14,7 @@ Deploying the original distribution on a server might prove tricky (see [issue #
 
 ### Pre-deployed versions
 
-You can find an automatically deployed online version at https://military-tactical-graphics.github.io/milsymbol-generator/
+You can find an automatically deployed online version at https://milgraphics-cz.herokuapp.com/
 
 Original version of Milsymbol generator live deployment can be found here: https://spatialillusions.com/unitgenerator/
 
