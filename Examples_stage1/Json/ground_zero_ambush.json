@@ -1,0 +1,45 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+              "sidc": "GFGPSLA-------X"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                  [
+                    6.609306335449219,
+                    52.51517622886228
+                  ],
+                  [
+                    6.5979766845703125,
+                    52.52269704703948
+                  ],
+                  [
+                    6.597633361816406,
+                    52.50974372615093
+                  ]
+              ]
+            }
+          },
+        {
+            "type": "Feature",
+            "properties": {
+                "sidc": "GFGPGPWG----X",
+                "size": 80
+                
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.627633361816406,
+                    52.51474372615093
+                    
+            ]
+            }
+        }
+    ]
+}

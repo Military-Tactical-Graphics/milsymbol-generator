@@ -1,0 +1,22 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "sidc": "GFGPGPUYA---X",
+                "size": 50
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    
+                        15.267847,
+                        49.574818
+                    
+            ]
+            }
+        }
+    ]
+}
