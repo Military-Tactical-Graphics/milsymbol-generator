@@ -5,9 +5,6 @@
             "type": "Feature",
             "properties": {
                 "sidc": "GFGPGPRS----X",
-                "dtg": "10095900ZJAN92",
-                "dtg1": "11095900ZJAN92",
-                "uniqueDesignation": "Q37",
                 "distance": 5000
                 
             },
