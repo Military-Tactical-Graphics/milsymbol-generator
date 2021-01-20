@@ -3,6 +3,9 @@ Military symbol generator based on milsymbol.js, used as a playground to test ne
 
 ![Milsymbol Generator](https://raw.githubusercontent.com/spatialillusions/milsymbol-generator/master/milsymbol-generator.png?raw=true)
 
+## Documentation
+Some basic information on the used standards can be found on [the project's wiki page](https://github.com/Military-Tactical-Graphics/milsymbol-generator/wiki).
+
 ## Deployment
 The instructions for deployment of the original version are not very clear, so we took the liberty to specify it more precisely in this extension, with remarks about what works for the original as well.
 
